@@ -8,7 +8,7 @@ namespace _03._05._20_InClassWork
 {
     class Program
     {
-        const string Password = "SoonersAreTheBest";
+        const string Password = "SoonersAreTheAbsoluteBest";
         static void Main(string[] args)
         {
             bool firstPass = true;
